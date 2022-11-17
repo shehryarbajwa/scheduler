@@ -38,7 +38,7 @@ npm run cypress
 
 !["Screenshot of Appointments page with Appointment Form"](https://github.com/ghulammurtaza27/scheduler/blob/master/docs/Scheduler%20-%202.png?raw=true)
 
-!["Screenshot of Appointments page with Appointment"](https://github.com/ghulammurtaza27/scheduler/blob/master/docs/Schdeuler%20-%203.png?raw=true)
+!["Screenshot of Appointments page with Appointment"](https://user-images.githubusercontent.com/12707831/202583108-e85d606f-b4b3-426b-8c85-45589d1f5344.png)
 
 
 !["Screenshot of Appointments page with Appointment Deletion Confirmation"](https://github.com/ghulammurtaza27/scheduler/blob/master/docs/Scheduler%20-%204.png?raw=true)
